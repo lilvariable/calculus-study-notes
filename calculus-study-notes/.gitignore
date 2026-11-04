@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / local workspace
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*~
